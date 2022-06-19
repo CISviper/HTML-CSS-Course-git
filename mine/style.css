@@ -1,15 +1,35 @@
 h1 {
-  color: blue;
+  font-size: 26px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
 }
+
 h2 {
-  color: red;
+  font-size: 48px;
+  font-family: sans-serif;
 }
+
 h3 {
-  color: green;
+  font-size: 38px;
+  font-family: sans-serif;
 }
+
 h4 {
-  color: orange;
+  font-size: 28px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
 }
-h5 {
-  color: purple;
+
+p {
+  font-size: 22px;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+li {
+  font-size: 22px;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
